@@ -34,6 +34,9 @@ encouraging a deeper understanding of data analysis and interpretation in the co
 ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/85d1b58a-945b-4ec2-abb5-c2c8b9c38c14)
 
 
+Tableau notebook:
+https://public.tableau.com/views/shopping_trends1/statethatusediscountpromo?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 
 
 
