@@ -26,7 +26,7 @@ encouraging a deeper understanding of data analysis and interpretation in the co
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/a89a8f42-9f80-4bc6-afed-f965622e6d5d)
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/9aaf3260-165a-4065-80c4-bef895788414)
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/2a648215-7999-4a4f-a44a-8ad085ba79b0)
-  ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/cf311aef-f6e9-4494-a72d-4b7323f73925)
+
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/934c2108-86fc-4c7e-a343-04ba37848618)
 - frequency of purchases
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/2ef20093-cabb-4b5e-8186-38176b2f5601)
