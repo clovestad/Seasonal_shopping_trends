@@ -35,8 +35,21 @@ encouraging a deeper understanding of data analysis and interpretation in the co
 ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/85d1b58a-945b-4ec2-abb5-c2c8b9c38c14)
 
 
-Tableau notebook:
+Tableau EDA notebook:
 https://public.tableau.com/views/shopping_trends1/statethatusediscountpromo?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+Tableau interactive Dashboard:
+implemented geo tags adding coordinates to each purchase to view total revenue generated on a state level, filtered by season and item categories.
+
+<img width="670" alt="image" src="https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/270f25e0-27f5-4797-8b19-22a084e616eb">
+
+  
+
+
+
+https://public.tableau.com/views/Shopping_Trends_2/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
 
 
 
