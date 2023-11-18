@@ -21,15 +21,20 @@ encouraging a deeper understanding of data analysis and interpretation in the co
 
 - checking for null values
 ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/d8f6a348-b9c6-4cdd-abd0-4faee3130e35)
-- further EDA in Tableau
-- 1 :
-  -in tableau
+- further EDA in Tableau And in Python,
+1.
+
+   -in tableau :
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/ad0064e2-2b1e-4684-b572-1c1f19d76a24)
   - in python:
-  - <img width="464" alt="image" src="https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/33cface6-4b1d-49bc-95a6-87cfcd0d5c06">
+<img width="464" alt="image" src="https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/33cface6-4b1d-49bc-95a6-87cfcd0d5c06">
 
-  2-
+2.
+  - in Tableau 
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/00b10166-df1a-4f94-b6fd-9970c48eebf9)
+ - in Python
+<img width="468" alt="image" src="https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/9c59baf0-ac82-4926-ba57-be5d96ef844a">
+
   3-
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/a89a8f42-9f80-4bc6-afed-f965622e6d5d)
   4-
