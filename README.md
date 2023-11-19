@@ -32,10 +32,11 @@ encouraging a deeper understanding of data analysis and interpretation in the co
 2.
   - in Tableau 
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/00b10166-df1a-4f94-b6fd-9970c48eebf9)
- - in Python
+ - in Python:
 <img width="468" alt="image" src="https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/9c59baf0-ac82-4926-ba57-be5d96ef844a">
 
   3-
+  - in Tableau:
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/a89a8f42-9f80-4bc6-afed-f965622e6d5d)
   - in python:
   <img width="981" alt="image" src="https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/0a900f3e-43bc-4520-9092-3020a9180d46">
@@ -43,16 +44,24 @@ encouraging a deeper understanding of data analysis and interpretation in the co
   4-
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/9aaf3260-165a-4065-80c4-bef895788414)
   5-
+  - in Tableau:
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/2a648215-7999-4a4f-a44a-8ad085ba79b0)
-  - in python:
+  - in Python:
   <img width="986" alt="image" src="https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/3843c6bf-5209-4a2e-b767-747d3e9f36ca">
 
   6-
+  - in Tableau:
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/3cdf4a6b-60f5-45bc-b292-d463988b5ab1)
-  7-
+  - in Python:
+  - <img width="983" alt="image" src="https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/704a9b35-18af-4bd8-a151-64bfba2ed540">
 
+  7-
+  - in Tableau:
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/934c2108-86fc-4c7e-a343-04ba37848618)
-  8
+  - in Python:
+  <img width="985" alt="image" src="https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/2341cfa0-3ce4-4a6c-a77a-c66a024e2301">
+
+  8- 
 - frequency of purchases
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/2ef20093-cabb-4b5e-8186-38176b2f5601)
 - Most common item categories purchased nationwide during different seasons
