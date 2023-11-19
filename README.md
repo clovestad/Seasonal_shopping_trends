@@ -37,10 +37,16 @@ encouraging a deeper understanding of data analysis and interpretation in the co
 
   3-
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/a89a8f42-9f80-4bc6-afed-f965622e6d5d)
+  - in python:
+  <img width="981" alt="image" src="https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/0a900f3e-43bc-4520-9092-3020a9180d46">
+
   4-
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/9aaf3260-165a-4065-80c4-bef895788414)
   5-
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/2a648215-7999-4a4f-a44a-8ad085ba79b0)
+  - in python:
+  <img width="986" alt="image" src="https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/3843c6bf-5209-4a2e-b767-747d3e9f36ca">
+
   6-
   ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/3cdf4a6b-60f5-45bc-b292-d463988b5ab1)
   7-
