@@ -17,11 +17,14 @@ encouraging a deeper understanding of data analysis and interpretation in the co
 ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/c93c2948-985b-4400-bc31-add8b2a2d3dc)
 
 - initial Data exploration
+  
 ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/3753b5e3-f45d-4be4-bb6f-e22c0f02010b)
 
 - checking for null values
 ![image](https://github.com/clovestad/Seasonal_shopping_trends/assets/103072823/d8f6a348-b9c6-4cdd-abd0-4faee3130e35)
+
 - further EDA in Tableau And in Python,
+  
 1.
 
    -in tableau :
